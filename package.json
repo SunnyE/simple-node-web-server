@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/SunnyE/simple-node-web-server/issues"
   },
-  "homepage": "https://github.com/SunnyE/simple-node-web-server#readme"
+  "homepage": "https://github.com/SunnyE/simple-node-web-server#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
 }
